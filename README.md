@@ -36,7 +36,7 @@ map1.html
             <font color="red"><b>Poonamallee</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Murali Krishna S (212223230129)</b></font>
+            <font color="blue"><b>vignesh M (212223040235)</b></font>
         </h3>
         <center>
             <img src="c:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-05 102557.png" usemap="#image-map">
