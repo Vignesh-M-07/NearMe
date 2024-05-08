@@ -126,6 +126,7 @@ hgc.html
 </html>
 
 ## OUTPUT
+![Screenshot 2024-04-28 130052](https://github.com/Vignesh-M-07/NearMe/assets/151615193/07c1a893-1854-4509-84ed-7654723c8d65)
 
 
 
