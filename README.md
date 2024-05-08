@@ -127,7 +127,7 @@ hgc.html
 
 ## OUTPUT
 
-![Screenshot 2024-05-08 092201](https://github.com/Vignesh-M-07/NearMe/assets/151615193/aa59dd1d-be9a-4b1a-be3e-08438a0f6fbf)
+
 
 ![Screenshot 2024-05-08 092219](https://github.com/Vignesh-M-07/NearMe/assets/151615193/03b646cc-4540-44d7-9d95-a2762aa605b6)
 
